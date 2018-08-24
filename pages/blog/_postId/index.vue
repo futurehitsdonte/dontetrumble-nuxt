@@ -1,9 +1,4 @@
 <template>
-    <!-- <div v-editable="blok">
-
-        <h1>{{title}}</h1>
-        <p>{{content}}</p>
-    </div> -->
     <v-container v-editable="blok">
         <v-card>
             <v-flex>

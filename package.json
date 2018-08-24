@@ -14,6 +14,9 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.8",
     "nuxt": "^1.0.0",
     "storyblok-nuxt": "0.0.9",
     "vuetify": "^1.0.19"
